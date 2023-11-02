@@ -14,8 +14,8 @@
 <style>
 	.boujee-text {
 		--bg-size: 400%;
-		--color-one: hsl(178, 90%, 55%);
-		--color-two: hsl(219, 95%, 55%);
+		--color-one: hsl(192, 100%, 40%);
+		--color-two: hsl(219, 100%, 41%);
 		/* font-size: clamp(3rem, 25vmin, 8rem); */
 		background: linear-gradient(90deg, var(--color-one), var(--color-two), var(--color-one)) 0 0 /
 			var(--bg-size) 100%;
